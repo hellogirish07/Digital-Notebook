@@ -212,7 +212,7 @@ const App = () => {
         )}
       </div>
 
-      <InfoLabel />
+      {/* <InfoLabel /> */}
     </div>
   );
 };

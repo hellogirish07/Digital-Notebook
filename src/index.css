@@ -1,0 +1,7 @@
+.bg-wood {
+    background-color: #8B6914;
+    background-image: url('/public/images\ \(2\).jpg');
+    background-size: cover;
+    /* optional: repeat control */
+    background-repeat: no-repeat;
+  }
